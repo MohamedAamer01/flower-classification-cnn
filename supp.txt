@@ -1,0 +1,1 @@
+.\.venv\Scripts\activate    :Pour activer l'environnement 
