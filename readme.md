@@ -139,7 +139,7 @@ pip install -r requirements.txt
 Start the Streamlit server by running:
 
 ```bash
-streamlit run app2.py
+streamlit run app.py
 ```
 
 Then open your browser and visit:
